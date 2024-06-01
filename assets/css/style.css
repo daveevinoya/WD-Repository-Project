@@ -1,0 +1,78 @@
+header{
+    background-color: #f6f6f6;
+    color: grey;
+    padding: 10px 10px;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: px;
+    }
+    
+    body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333333;
+    background-color: #fff;
+    }
+    .container {
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    }
+    
+    .content {
+    max-width: 64rem;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    }
+    
+    .title {
+    font-size: 1.125rem;
+    }
+    
+    .heading {
+    font-size: 2.25rem;
+    font-weight: bold;
+    color: orange;
+    }
+    
+    .paragraph {
+    margin-top: 1rem;
+    font-size: 1.125rem;
+    }
+    
+    .image-container {
+    border-width: 0.25rem;
+    border-color: #FFA500;
+    border-style: solid;
+    padding: 1rem;
+    max-width: 20rem;
+    float: right;
+    }
+    
+    .image {
+    width: 50%;
+    height:auto;
+    margin-bottom: 1rem;
+    
+    
+    }
+    
+    .caption {
+    font-size: 1.125rem;
+    }
+    
+    .page2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #000000;
+    background-color: #fff;
+    }
+    
+    .content {
+    max-width: 64rem;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    }
